@@ -1,4 +1,4 @@
-# Guia de Usuário: Como Usar o Absoute Cinema
+# Guia de Usuário: Como Usar o Absolute Cinema
 
 Este projeto contém um sistema de cadastro de filmes. Você tem duas opções para usá-lo:
 
